@@ -1,0 +1,32 @@
+.hero-background{
+    background-color: #272838;
+}
+
+.light{
+    color: white !important;
+}
+
+p{
+    color:white;
+}
+
+.hero-bg{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    max-width:400px;
+}
+
+.barrettk{
+    border-radius: 50%;
+    height:300px;
+}
+
+.dark{
+    color:black;
+}
+
+.display-5 h1{
+    color:white;
+}
+
